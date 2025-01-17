@@ -73,8 +73,6 @@ body {
 
 .overlay {
     background: linear-gradient(120deg, #6AD8B7, #38B593);
-    background-size: cover;
-    background-position: center;
     color: #fff;
     position: relative;
     left: -100%;
